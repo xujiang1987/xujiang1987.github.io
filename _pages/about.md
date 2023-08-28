@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at the School of Computer Science and Engineering of Northeastern University in China with an extensive academic and industrial research record and considerable teaching experience.
+I am an associate professor at the [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/) in China with an extensive academic and industrial research record and considerable teaching experience.
 
 My research interests:
 1. Intermittent Computing
