@@ -7,10 +7,10 @@
 
 # Site Settings
 locale: "en-US"
-title: "Wenwei Zhang"
+title: "Xu Jiang"
 title_separator: "-"
-name: &name "Wenwei Zhang"
-description: &description "Graduate Student at Nanyang Technological University"
+name: &name "Xu Jiang"
+description: &description "Associate Professor at Northeastern University, China"
 url: https://xujiang1987.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "xujiang1987.github.io"
@@ -76,13 +76,13 @@ analytics:
 
 # Site Author
 author:
-  name: "Wenwei Zhang"
+  name: "Xu Jiang"
   avatar: "profile-mine.png"
-  bio: "PhD student at NTU"
-  location: "Singapore"
+  bio: "Associate Professor at NEU"
+  location: "Shenyang, Liaoning"
   employer:
-  googlescholar: "https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
-  email: "wenwei001@ntu.edu.sg"
+  googlescholar: # "https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
+  email: "jiangxu@cse.neu.edu.cn"
   uri:
   bitbucket:
   codepen:
@@ -90,19 +90,19 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "ZwwWayne"
+  github: "xujiang1987"
   google_plus:
   keybase:
   instagram:
   lastfm:
-  linkedin: "wenweizhang-b9769a124/"
+  linkedin: # "wenweizhang-b9769a124/"
   orcid: #"http://orcid.org/yourorcidurl"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "wenweiz97"
+  twitter: # "wenweiz97"
   vine:
   weibo:
   xing:
