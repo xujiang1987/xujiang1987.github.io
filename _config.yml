@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Xu Jiang"
+title: "Home"
 title_separator: "-"
 name: &name "Xu Jiang"
 description: &description "Associate Professor at Northeastern University, China"
@@ -77,8 +77,8 @@ analytics:
 # Site Author
 author:
   name: "Xu Jiang"
-  avatar: "profile.png"
-  bio: "Associate Professor at NEU"
+  avatar: "profile-xujiang.png"
+  bio: "Associate Professor \\ new"
   location: "Shenyang, Liaoning"
   employer:
   googlescholar: # "https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
