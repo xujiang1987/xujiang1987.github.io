@@ -78,9 +78,9 @@ analytics:
 author:
   name: "Xu Jiang"
   avatar: "profile-xujiang.png"
-  bio: "Associate Professor \\ new"
+  bio: "Associate Professor "
+  employer: "School of Computer Science and Engineering, Northeastern University, China."
   location: "Shenyang, Liaoning"
-  employer:
   googlescholar: # "https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
   email: "jiangxu@cse.neu.edu.cn"
   uri:
