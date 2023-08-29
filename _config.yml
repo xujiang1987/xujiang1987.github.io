@@ -82,8 +82,8 @@ author:
   employer: "School of Computer Science and Engineering, Northeastern University, China."
   location: "Shenyang, Liaoning"
   googlescholar: # "https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
-  email: "jiangxu@cse.neu.edu.cn"
-  uri:
+  email: # "jiangxu@cse.neu.edu.cn"
+  URI: "jiangxu\"at\"cse.neu.edu.cn"
   bitbucket:
   codepen:
   dribbble:
