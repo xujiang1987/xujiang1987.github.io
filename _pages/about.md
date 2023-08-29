@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm currently an Associate Professor at the [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/), [Northeastern University](http://www.neu.edu.cn/), China. I received my PhD from Beihang University, China. 
+I'm currently an Associate Professor at the [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/), [Northeastern University](http://www.neu.edu.cn/), China. I received my PhD from [Beihang University](https://www.buaa.edu.cn/), China. 
 
 My research interests:
 - Real-Time System
