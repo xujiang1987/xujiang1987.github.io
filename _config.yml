@@ -9,8 +9,8 @@
 locale: "en-US"
 title: "Home"
 title_separator: "-"
-name: &name "Xu Jiang"
-description: &description "Associate Professor at Northeastern University, China"
+name: "Xu Jiang"
+description: "School of Computer Science and Engineering, Northeastern University, China."
 url: https://xujiangRT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "xujiangRT.github.io"
@@ -78,13 +78,12 @@ analytics:
 author:
   name: "Xu Jiang"
   avatar: "profile-xujiang.png"
-  bio: "Associate Professor School of Computer Science and Engineering, Northeastern University, China."
-  description: "School of Computer Science and Engineering, Northeastern University, China."
+  bio: "Associate Professor"
   employer: #"School of Computer Science | and Engineering, Northeastern University, China."
   location: "Shenyang, Liaoning"
   googlescholar: # "https://scholar.google.com/citations?user=QDXADSEAAAAJ&hl=zh-CN"
   email: # "jiangxu@cse.neu.edu.cn"
-  URI: "jiangxu\"at\"cse.neu.edu.cn"
+  URI: #"jiangxu\"at\"cse.neu.edu.cn"
   bitbucket:
   codepen:
   dribbble:
