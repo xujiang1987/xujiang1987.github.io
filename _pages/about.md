@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at the [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/) in China with an extensive academic and industrial research record and considerable teaching experience.
+
+I'm currently an Associate Professor at the [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/), [Northeastern University](http://www.neu.edu.cn/), China. I received my PhD from Beihang University, China. 
 
 My research interests:
-1. Intermittent Computing
-2. Real-Time System
-3. Automotive
-4. Cyber-physical systems
+- Real-Time System
+- Cyber-physical Systems
+- Automotive Systems
+- Embedded AI
 
 Selected Service
 ======
