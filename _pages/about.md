@@ -37,8 +37,8 @@ Reviewer
 
 Academic Awards
 ======
-- RTSS 2022 Outstanding Paper Award
 - DATE 2023 Outstanding Paper Award
+- RTSS 2022 Outstanding Paper Award
 - ISORC 2019 Best Paper Award
 
 
