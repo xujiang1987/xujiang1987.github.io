@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm currently a Professor at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), China. I received my PhD from [Beihang University](https://www.buaa.edu.cn/), China. 
+I'm currently a Professor at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). I received my PhD from [Beihang University](https://www.buaa.edu.cn/), China. 
 
 My research interests:
 - Real-Time System
